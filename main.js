@@ -1,6 +1,6 @@
 class Transmittal_Document {
   type = undefined;
-qwerqwer
+
   constructor(number, name) {
     this.number = number;
     this.name = name;
@@ -14,7 +14,7 @@ qwerqwer
     this.unit = this.number_arr[2];
     this.discipline = this.number_arr[3];
     this.language = this.number_arr[5];
-    this.revision = this.number_arr[6];
+    this.revision = this.number_arr[6];   
   }
 
   analyzeName() {
