@@ -1,6 +1,10 @@
-class Transmittal_Document {
-  type = undefined;
+/*
+Class for Transmittal document name and number analyze
+*/
 
+class Transmittal_Document {
+  type = undefined;  
+  
   constructor(number, name) {
     this.number = number;
     this.name = name;
