@@ -1,6 +1,6 @@
 class Transmittal_Document {
   type = undefined;
-
+qwerqwer
   constructor(number, name) {
     this.number = number;
     this.name = name;
